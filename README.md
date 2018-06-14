@@ -12,5 +12,5 @@ Analyses were generated in R 3.3.2 using three packages: Igraph, Statnet, and ER
 
 For more details, please see the paper. 
 
-* [Figure](img.png)
+![Figure](img.png)
 * [Presentation Slides](/Slides.pdf)
