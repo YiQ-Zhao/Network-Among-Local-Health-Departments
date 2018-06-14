@@ -10,7 +10,9 @@ The baseline, null model was built using only the edges of the network as indepe
 ### Software
 Analyses were generated in R 3.3.2 using three packages: Igraph, Statnet, and ERGM. 
 
-For more details, please see the paper. 
+For more details, please see the [paper](/LHD_paper_zhao_wang_javed.pdf) and [presentation slides](/Slides.pdf)
 
+
+*Appendix*
 ![Figure](img.png)
-* [Presentation Slides](/Slides.pdf)
+
